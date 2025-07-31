@@ -1,0 +1,17 @@
+{
+  "tipo": "financial_monthly",
+  "periodo": "Julho de 2025",
+  "mes": 7,
+  "ano": 2025,
+  "data_geracao": "30/07/2025 às 14:43",
+  "total_receitas": 2950.0,
+  "total_despesas": 0,
+  "saldo": 2950.0,
+  "total_moradores": 8,
+  "total_fornecedores": 7,
+  "despesas_por_categoria": {
+    "Nenhuma despesa registrada": 0
+  },
+  "num_pagamentos": 3,
+  "num_faturas": 0
+}

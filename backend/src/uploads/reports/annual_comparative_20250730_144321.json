@@ -1,0 +1,39 @@
+{
+  "tipo": "annual_comparative",
+  "ano": 2025,
+  "data_geracao": "30/07/2025 às 14:43",
+  "dados_anos": {
+    "2021": {
+      "receitas": 0,
+      "despesas": 0,
+      "saldo": 0
+    },
+    "2022": {
+      "receitas": 0,
+      "despesas": 0,
+      "saldo": 0
+    },
+    "2023": {
+      "receitas": 0,
+      "despesas": 0,
+      "saldo": 0
+    },
+    "2024": {
+      "receitas": 0,
+      "despesas": 0,
+      "saldo": 0
+    },
+    "2025": {
+      "receitas": 14450.0,
+      "despesas": 0,
+      "saldo": 14450.0
+    }
+  },
+  "anos": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ]
+}
